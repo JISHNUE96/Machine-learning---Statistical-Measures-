@@ -1,2 +1,3 @@
 # Machine-learning---Statistical-Measures-
-A new assignment: Statistical Measures
+Statistical Measures Assignment
+This assignment focuses on exploring and applying key statistical measures in data analysis, which are essential for understanding and preparing data in machine learning. It includes calculating descriptive statistics such as mean, median, mode, variance, standard deviation, and interquartile range to summarize data. Additionally, measures like skewness and kurtosis are used to analyze the shape of data distributions, while correlation and covariance help in identifying relationships between variables. Data visualizations such as histograms, boxplots, and scatter plots are employed to complement these analyses. By utilizing these statistical techniques, the assignment demonstrates how to effectively interpret data, detect outliers, and prepare it for building better machine learning models.
